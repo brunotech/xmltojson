@@ -1,7 +1,6 @@
 const express = require('express')
 const axios = require('axios')
 const parser = require('xml2json')
-const fastxml = require('fast-xml-parser')
 
 const app = express()
 
